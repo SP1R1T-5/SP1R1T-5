@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SP1R1T-5
 - 👀 I’m interested in Data Forensics, Red Teaming, Network Security.
-- 🌱 I’m currently working on my final major project!
 - 🔎 https://www.tryhackme.com/p/SP1R1T
 
 
