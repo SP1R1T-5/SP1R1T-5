@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SP1R1T-5
-- 📕 Currently studying Cybersecurity & Cybersecurity Policy 
+- 👋 Hi, I’m Jonathan 
+- 📕 Currently studying Cybersecurity & Cybersecurity Policy at University at Albany
 - 👀 I’m interested in Data Forensics, Red Teaming, Network Security.
 - 🔎 https://www.tryhackme.com/p/SP1R1T
 
