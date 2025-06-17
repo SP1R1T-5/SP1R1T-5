@@ -2,9 +2,9 @@
 
 ##  Hi, I'm Jonathan
 
- I'm a Master's student in **Digital Forensics & Cyber Security** at the University at Albany, specializing in **Risk, Policy & Compliance**.  
- Collegiate cybersecurity competitor in the Northeast with a focus on **Windows Defense (Purple Team)**.  
- Currently engaged in **Mac malware research** and exploring **AI applications in cybersecurity**.
+ I'm a Master's student in Digital Forensics & Cyber Security at the University at Albany, specializing in Risk, Policy & Compliance.  
+ Collegiate cybersecurity competitor in the Northeast with a focus on Windows Defense (Purple Team).  
+ Currently engaged in Mac malware research and exploring AI applications in cybersecurity.
 
 ---
 
