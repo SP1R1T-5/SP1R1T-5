@@ -11,19 +11,19 @@
 ###  Featured Repositories
 
 Check out some of my active work:
--  Purple Team tools and techniques
--  Windows Defense scenarios
--  Mac malware analysis
--  AI security research
+-  Windows Defense Scenarios
+-  Mac Malware Analysis
+-  AI Cogniative Assistance
 
-> You can find these pinned on my GitHub profile.
+> You can find these pinned on my GitHub profile! :)
 
 ---
 
 ###  Currently Learning
 
 -  **LDAP & WMIC Exploitation**  
--  **AI Speech Models in Security Contexts**  
+-  **Basic AI Speech Model for Speech Impediments**
+-  **Basic AI Model for Role Selection**
 -  **PowerShell for Blue Team Automation**
 
 ---
