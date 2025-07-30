@@ -24,5 +24,3 @@ Check out some of my active work:
 -  **LDAP & WMIC Exploitation**  
 -  **Web App Pentesting**
 -  **PowerShell for Blue Team Automation**
-
----
