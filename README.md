@@ -19,7 +19,7 @@ Check out some of my active work:
 
 ---
 
-###  Currently Learning
+##  Currently Learning
 
 -  **LDAP & WMIC Exploitation**  
 -  **Web App Pentesting**
