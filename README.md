@@ -2,7 +2,7 @@
 
 ##  Hi, I'm Jonathan
 
- I'm a Master's student in Digital Forensics & Cyber Security at the University at Albany, specializing in Risk, Policy & Compliance.  
+ I'm a Master's student in Digital Forensics & Cyber Security at (No Free OSINT), specializing in Risk, Policy & Compliance.  
  Collegiate Cybersecurity competitor in the Northeast with a focus on Windows Purple Team.  
  Currently studying for THM PT1 and HTB CDSA!
 
