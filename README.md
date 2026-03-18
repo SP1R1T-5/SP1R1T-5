@@ -4,7 +4,7 @@
 
  I'm a Master's student in Digital Forensics & Cyber Security at (No Free OSINT), specializing in Risk, Policy & Compliance.  
  Collegiate Cybersecurity competitor in the Northeast with a focus on Windows Purple Team.  
- Currently studying for THM PT1 and HTB CDSA!
+ Currently leading the Cyber Defense Org's Cyber Range
 
 ---
 
@@ -22,5 +22,5 @@ Check out some of my active work:
 ##  Currently Learning
 
 -  **LDAP & WMIC Exploitation**  
--  **Web App Pentesting**
+-  **Linux Offensive Security**
 -  **PowerShell for Blue Team Automation**
