@@ -4,7 +4,7 @@
 
  I'm a Master's student in Digital Forensics & Cyber Security at the Univerity at Albany, specializing in Risk, Policy & Compliance.  
  Collegiate Cybersecurity competitor in the Northeast with a focus on Windows Purple Team.  
- Currently leading the Cyber Defense Org's New Cyber Range!
+ Currently leading the Cyber Defense Org's Red Team and our New Cyber Range!
 
 
 ---
