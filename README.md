@@ -5,7 +5,7 @@
  I'm a Master's student in Digital Forensics & Cyber Security at the Univerity at Albany, specializing in Risk, Policy & Compliance.  
  Collegiate Cybersecurity competitor in the Northeast with a focus on Windows Purple Team.  
  
- Currently working as a Information Security Intern at Center for Internet Security (CIS)
+ Currently working as a Information Security Intern and Finally working on Side Projects!
 
 ---
 
@@ -23,6 +23,6 @@ Check out some of my active work:
 
 ##  Currently Learning
 
--  **LDAP & WMIC Exploitation**  
+-  **Discord Bots and Webhooks**  
 -  **Linux Offensive Security**
--  **PowerShell for Blue Team Automation**
+-  **Claude Code Workflows**
