@@ -2,10 +2,11 @@
 
 ##  Hi, I'm Jonathan
 
- I'm a Master's student in Digital Forensics & Cyber Security at the Univerity at Albany, specializing in Risk, Policy & Compliance.  
- Collegiate Cybersecurity competitor in the Northeast with a focus on Windows Purple Team.  
+ I'm finishing up my Master's Degree in Digital Forensics & Cybersecurity (Conc. Risk, Policy and Compliance) in August. 
+ I've competed with UAlbany's Cyber Defense Org. in the Collegiate Cyber Defense Challenge in the Northeast Region, RITSec's ISTS, and CyberSkyline's National Cyber League to name few competitions.
  
- Currently working as a Information Security Intern and Finally working on Side Projects!
+ I've been a Windows Incident Response Specialist for the past 3 years and have a strong background in Networking and Infrastructure Architecture and Maintenance.
+ I'm hoping to gain more industry experience in Incident Response, Offensive Security, and Threat Reporting over the coming months!
 
 ---
 
