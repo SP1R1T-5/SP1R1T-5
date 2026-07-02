@@ -20,7 +20,7 @@ Check out some of my active work:
 -  Windows Defense Scenarios
 -  Competition Infrastructure Scripts
 -  Mac Malware Analysis
--  AI Cogniative Assistance
+-  Jira Workflows & Integrations
 
 > You can find these pinned on my GitHub profile! :)
 
