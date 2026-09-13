@@ -5,7 +5,7 @@
  
  I've competed with UAlbany's Cyber Defense Org. in the Collegiate Cyber Defense Challenge in the Northeast Region, RITSec's ISTS, and CyberSkyline's National Cyber League to name few competitions.
  
- I've been a Windows Incident Response Specialist for the past 3 years and have a strong background in Networking and Infrastructure Architecture and Maintenance.
+ I've been a Windows Incident Response Specialist for the past 5 years and have a strong background in Networking and Infrastructure Architecture and Maintenance.
 
 ---
 
