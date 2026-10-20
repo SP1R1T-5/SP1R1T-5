@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Jonathan -->
 
 ##  Hi, I'm Jonathan!
- I have A.A.S - M.S Degrees in Information Assurance, Cybersecurity, and Digital Forensics & Cybersecurity, with a graduate concentration in Risk, Policy, and Compliance.
+ I have a Masters degree in Digital Forensics & Cybersecurity with a concentration in Risk, Policy, and Compliance.
  
  I've competed with UAlbany's Cyber Defense Org. in the Collegiate Cyber Defense Challenge in the Northeast Region, RITSec's ISTS, and CyberSkyline's National Cyber League to name few competitions.
  
@@ -23,6 +23,6 @@ Check out some of my active work:
 
 ##  Currently Learning
 
--  **Thinkst Canary Suite/Tokens**  
--  **Security Platform Integrations & Automation**
+-  **AI Regulations and Compliance Standards**
+-  **Email-based Social Engineering Purple Teaming**
 -  **NIST Frameworks & Publications**
